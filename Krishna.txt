@@ -1,0 +1,26 @@
+
+DP-95 Understand how CircleCI worksDP-113
+poc with orbs features	
+ Edit CommentAssignTo DoIn ProgressDone
+Type:
+ Sub-task
+Status:IN PROGRESS  (View workflow)
+Priority:
+ Medium
+Resolution:
+Unresolved
+Affects Version/s:
+None
+Fix Version/s:
+DevOPs POC Release1
+Component/s:
+DevOps
+Labels:
+POC
+Sprint:
+Description
+features
+
+OptionsAttachments
+Drop files to attach, or browse.
+Activity
